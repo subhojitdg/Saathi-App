@@ -9,3 +9,6 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
+
+# Neo4j and application secrets
+secrets.toml
